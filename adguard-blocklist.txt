@@ -1,0 +1,57 @@
+# AdGuard Home Blocklist for Hulu, Pluto.TV, and Peacock TV
+# Last Updated: 2025-01-08
+# This blocklist blocks streaming services: Hulu, Pluto.TV, and Peacock TV
+
+# ===================================
+# HULU DOMAINS
+# ===================================
+||hulu.com^
+||hulustream.com^
+||hulu.jp^
+||huluplus.com^
+||ads-e-darwin.hulustream.com^
+||ads-v-darwin.hulustream.com^
+||ads-fa-darwin.hulustream.com^
+||assetshuluimcom-a.akamaihd.net^
+||hulu.hb-api.omtrdc.net^
+||assets.huluim.com^
+||hulu.playback.edge.bamgrid.com^
+||*.hulu.com^
+||*.hulustream.com^
+
+# ===================================
+# PLUTO.TV DOMAINS
+# ===================================
+||pluto.tv^
+||ads.pluto.tv^
+||pluto.tv.ads^
+||images.pluto.tv^
+||stitcher.pluto.tv^
+||siloh.pluto.tv^
+||silo.pluto.tv^
+||cdn-mobile.api.pluto.tv^
+||api.pluto.tv^
+||players.pluto.tv^
+||tags.tiqcdn.com^
+||a-fds.youborafds01.com^
+||*.pluto.tv^
+
+# ===================================
+# PEACOCK TV DOMAINS
+# ===================================
+||peacocktv.com^
+||*.peacocktv.com^
+||mt.ssai.peacocktv.com^
+||cdn.peacocktv.com^
+||api-na.ocellus.nbcuni.com^
+||atom.peacocktv.com^
+||g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com^
+||g003-vod-us-cmaf-prd-fy.cdn.peacocktv.com^
+||g008-vod-us-cmaf-prd-qw.cdn.peacocktv.com^
+
+# ===================================
+# GENERAL AD DOMAINS (from original list)
+# ===================================
+||pubads.g.doubleclick.net^
+||ad.doubleclick.net^
+||adservice.google.com^
